@@ -779,8 +779,17 @@ public class Solution {
         return res;
     }
     //next
-    public int[] singleNumbers(int[] nums) {
-        return nums;
+    public int[] twoSum(int[] nums, int target) {
+        int[] res = new int[2];
+        Set<Integer> set = new HashSet<>();
+        for(int i=0; i<nums.length; i++){
+            if(set.contains(nums[i])){
+                res[0] = nums[i];
+                res[1] = target - nums[i];
+            }else
+                set.add(target-nums[i]);
+        }
+        return res;
     }
 
     //圆圈中最后剩下的数字 面试题62 约瑟夫环问题
