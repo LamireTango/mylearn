@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4645d8e1-beb4-4ce2-9a44-87b9262c2286" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="temppro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
+              <folding>
+                <element signature="method#main#0;class#TestSolution#0" />
+                <element signature="e#588#967#0" />
+                <element signature="e#720#869#1" />
+                <element signature="e#972#1594#0" />
+                <element signature="e#1118#1175#1" />
+                <element signature="class#1205:1445" />
+                <element signature="method#compare#0;class#1205:1445" />
+                <element signature="e#1599#2184#0" />
+                <element signature="e#1787#2147#1" />
+                <element signature="e#1821#2074#1" />
+                <element signature="e#2079#2137#1" />
+                <element signature="e#2189#2584#0" />
+                <element signature="e#2276#2578#1" />
+                <element signature="e#2589#3292#0" />
+                <element signature="e#2947#3112#1" />
+                <element signature="e#3184#3286#1" />
+                <element signature="e#3297#3397#0" />
+                <element signature="e#3402#4545#0" />
+                <element signature="e#3486#4539#1" />
+                <element signature="e#3800#4076#1" />
+                <element signature="e#3991#4062#1" />
+                <element signature="e#4550#5502#0" />
+                <element signature="e#4866#5496#1" />
+                <element signature="e#4901#4963#1" />
+                <element signature="e#5038#5198#1" />
+                <element signature="e#5311#5431#1" />
+                <element signature="e#5353#5417#1" />
+                <element signature="e#5507#5984#0" />
+                <element signature="e#5702#5947#1" />
+                <element signature="e#5829#5877#1" />
+                <element signature="e#5882#5937#1" />
+                <element signature="e#5989#6315#0" />
+                <element signature="e#6046#6078#0" />
+                <element signature="e#6133#6179#1" />
+                <element signature="e#6183#6309#1" />
+                <element signature="e#6320#6536#0" />
+                <element signature="e#6541#6773#0" />
+                <element signature="e#6778#7328#0" />
+                <element signature="e#6897#6972#1" />
+                <element signature="e#7017#7322#1" />
+                <element signature="e#7176#7312#1" />
+                <element signature="e#7333#7617#0" />
+                <element signature="e#7622#8719#0" />
+                <element signature="e#8443#8560#1" />
+                <element signature="e#8593#8712#1" />
+                <element signature="e#8791#9317#0" />
+                <element signature="e#8975#9292#1" />
+                <element signature="e#9027#9282#1" />
+                <element signature="e#9078#9268#1" />
+                <element signature="e#9322#10297#0" />
+                <element signature="e#9565#9664#1" />
+                <element signature="e#9759#9858#1" />
+                <element signature="e#9943#10042#1" />
+                <element signature="e#10140#10239#1" />
+                <element signature="e#10302#10902#0" />
+                <element signature="e#10462#10666#1" />
+                <element signature="e#10500#10622#1" />
+                <element signature="e#10907#11496#0" />
+                <element signature="e#11068#11117#1" />
+                <element signature="e#11195#11244#1" />
+                <element signature="e#11311#11360#1" />
+                <element signature="e#11441#11490#1" />
+                <element signature="e#11501#11673#0" />
+                <element signature="e#11571#11629#1" />
+                <element signature="e#11678#12196#0" />
+                <element signature="e#11927#12107#1" />
+                <element signature="e#12201#12691#0" />
+                <element signature="e#12311#12349#0" />
+                <element signature="e#12498#12552#1" />
+                <element signature="e#12574#12665#1" />
+                <element signature="e#12696#13890#0" />
+                <element signature="e#12916#13860#1" />
+                <element signature="e#12959#13850#1" />
+                <element signature="e#13020#13077#1" />
+                <element signature="e#13083#13836#1" />
+                <element signature="e#13173#13380#1" />
+                <element signature="e#13276#13358#1" />
+                <element signature="e#13386#13818#1" />
+                <element signature="e#13412#13431#0" />
+                <element signature="e#13497#13576#1" />
+                <element signature="e#13717#13796#1" />
+                <element signature="e#13895#14257#0" />
+                <element signature="e#14151#14229#1" />
+                <element signature="e#14262#14476#0" />
+                <element signature="e#14348#14470#1" />
+                <element signature="e#14481#14790#0" />
+                <element signature="e#14795#14900#0" />
+                <element signature="e#14905#15315#0" />
+                <element signature="e#15038#15288#1" />
+                <element signature="e#15070#15244#1" />
+                <element signature="e#15320#16222#0" />
+                <element signature="e#15615#16196#1" />
+                <element signature="e#16227#16708#0" />
+                <element signature="e#16403#16669#1" />
+                <element signature="e#16476#16529#1" />
+                <element signature="e#16586#16648#1" />
+                <element signature="e#16713#17533#0" />
+                <element signature="e#17057#17507#1" />
+                <element signature="e#17167#17387#1" />
+                <element signature="e#17538#18793#0" />
+                <element signature="e#17926#18149#1" />
+                <element signature="e#17963#18031#1" />
+                <element signature="e#18069#18139#1" />
+                <element signature="e#18502#18553#1" />
+                <element signature="e#18608#18668#1" />
+                <element signature="e#18946#19247#0" />
+                <element signature="e#19252#19569#0" />
+                <element signature="e#19574#20165#0" />
+                <element signature="e#19734#19925#1" />
+                <element signature="e#20170#20800#0" />
+                <element signature="e#20364#20447#1" />
+                <element signature="e#20510#20764#1" />
+                <element signature="e#20805#21297#0" />
+                <element signature="e#21083#21263#1" />
+                <element signature="e#21302#21532#0" />
+                <element signature="e#21537#24180#0" />
+                <element signature="e#21596#23048#0" />
+                <element signature="e#21937#22499#1" />
+                <element signature="e#22101#22409#1" />
+                <element signature="e#22153#22346#1" />
+                <element signature="e#22762#22949#1" />
+                <element signature="e#23057#24174#0" />
+                <element signature="e#23549#24139#1" />
+                <element signature="e#23707#23843#1" />
+                <element signature="e#23955#24093#1" />
+                <element signature="e#24185#24585#0" />
+                <element signature="e#24590#25438#0" />
+                <element signature="e#24730#24797#1" />
+                <element signature="e#24837#25432#1" />
+                <element signature="e#24863#25422#1" />
+                <element signature="e#24881#24908#0" />
+                <element signature="e#25057#25106#1" />
+                <element signature="e#25443#26064#0" />
+                <element signature="e#25527#25685#0" />
+                <element signature="e#25694#25929#0" />
+                <element signature="e#25761#25837#1" />
+                <element signature="e#25843#25919#1" />
+                <element signature="e#26069#26994#0" />
+                <element signature="class#26178:26330" />
+                <element signature="e#26269#26270#0" expanded="true" />
+                <element signature="e#26269#26320#0" />
+                <element signature="e#26319#26320#0" expanded="true" />
+                <element signature="e#26528#26968#1" />
+                <element signature="e#26561#26657#1" />
+                <element signature="e#26750#26809#1" />
+                <element signature="e#26871#26932#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/mycode/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/Echo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>&quot;&quot;</find>
+      <find>&quot; &quot;</find>
+      <find>map</find>
+      <find>ism</find>
+      <find>VAL_3</find>
+      <find>retain</find>
+      <find>access</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/thinking_in_java/TypeInformation14/Ex8.java" />
+        <option value="$PROJECT_DIR$/src/mycode/A.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/TypeInformation14/Ex25.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/Ex13.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/ErasedTypeEquivalence.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/ErasureAndInheritance.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/Test.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/StaticProxy.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/StaticPrinterProxy.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/PrinterInt.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/IPrinter1.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/MyPrinter.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/PrinterProxy.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/IPrinter.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/Printer.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/DynamicProxy/PrinterDynamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/mycode/Node.java" />
+        <option value="$PROJECT_DIR$/src/mycode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/mycode/Node1.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/Arrays16/JavaUtilArrays.java" />
+        <option value="G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/containers/FillingLists.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/containers17/FilingLists.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/Arrays16/Arrays16.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/containers17/CollectionMethonds.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/containers17/FillingLists.java" />
+        <option value="$PROJECT_DIR$/src/mycode/Main.java" />
+        <option value="G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/io/DirList.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/StreamTest.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/BufferedInputFile1.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/test.txt" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/BufferedInputFilePractice.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/MemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/FormattedMemoryInput.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/BufferedInputFile.java" />
+        <option value="G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/io/FileOutputShortcut.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/UsingRandomAccessFile.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/BasicFileOutput.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/Echo.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/IO18/GZIPcompress.java" />
+        <option value="G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/OzWitch.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/enumerated19/OzWitch.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/enumerated19/TrafficLight.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/Ex7.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/generics15/Generator.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/enumerated19/EnumImplementation.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/enumerated19/Enums.java" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/enumerated19/RandomTest.java" />
+        <option value="G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/ConstantSpecificMethod.java" />
+        <option value="D:/tools/Tomcat 9.0/conf/logging.properties" />
+        <option value="$PROJECT_DIR$/src/thinking_in_java/io18/Echo.java" />
+        <option value="$PROJECT_DIR$/src/mycode/Solution.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1876" />
+    <option name="y" value="79" />
+    <option name="width" value="1482" />
+    <option name="height" value="920" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="thinking_in_java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594799830743" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\data\java project\temppro\Flashicard" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="debugoff" />
+      <recent name="mycode" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\data\java project\temppro\src\thinking_in_java" />
+      <recent name="G:\data\java project\temppro\src" />
+      <recent name="G:\data\java project\temppro\src\flashicard" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BasicFileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinking_in_java.io18.BasicFileOutput" />
+      <module name="leetcode_and_thinkinginjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinking_in_java.io18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Echo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinking_in_java.io18.Echo" />
+      <module name="leetcode_and_thinkinginjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinking_in_java.io18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mycode.Main" />
+      <module name="leetcode_and_thinkinginjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mycode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="thinking_in_java.enumerated19.RandomTest" />
+      <module name="leetcode_and_thinkinginjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="thinking_in_java.enumerated19.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mycode.TestSolution" />
+      <module name="leetcode_and_thinkinginjava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mycode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestSolution" />
+      <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.BasicFileOutput" />
+      <item itemvalue="Application.Echo" />
+      <item itemvalue="Application.Main" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Echo" />
+        <item itemvalue="Application.TestSolution" />
+        <item itemvalue="Application.BasicFileOutput" />
+        <item itemvalue="Application.RandomTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4645d8e1-beb4-4ce2-9a44-87b9262c2286" name="Default Changelist" comment="" />
+      <created>1551080138098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551080138098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20469083" />
+      <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.16684435" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.50080776" side_tool="true" weight="0.16684435" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.49929675" weight="0.39869988" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="6" sideWeight="0.4978678" weight="0.37053087" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" weight="0.26218852" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.22968581" />
+      <window_info anchor="bottom" x="337" y="495" width="1385" height="278" id="Run" order="10" sideWeight="0.49733475" weight="0.2494577" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32936078" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="nextstr" />
+        <watch expression="list" />
+        <watch expression="set" />
+        <watch expression="nextlist" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/MemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/FormattedMemoryInput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="63" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/net/mindview/util/ThreeTuple.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/net/mindview/util/TextFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="68" column="42" lean-forward="true" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#2607#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1520#1521#0" expanded="true" />
+            <element signature="e#1550#1551#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/io/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="15" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/io/GetChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="110" column="11" selection-start-line="110" selection-start-column="11" selection-end-line="110" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="59" column="25" selection-start-line="59" selection-start-column="25" selection-end-line="59" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/io/GZIPcompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="34" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#1033#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/GZIPcompress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/UsingRandomAccessFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/BufferedInputFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="823" column="38" lean-forward="true" selection-start-line="823" selection-start-column="38" selection-end-line="823" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/Spiciness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/Burrito.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/OzWitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="26" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1029#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/SpaceShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/TrafficLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="39" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#1006#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#638#639#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/Reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#1954#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#557#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/cartoons/EnumImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="27" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#813#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/generics15/Ex7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/generics15/Generator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/net/mindview/util/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" selection-start-line="2" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="13" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="3528" column="15" selection-start-line="3528" selection-start-column="15" selection-end-line="3528" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/menu/TypeOfFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/menu/Meal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="800">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/menu/Meal2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-200">
+          <caret line="13" column="25" lean-forward="true" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/menu/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/menu/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/AlarmPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="50" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/EnumSets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#936#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/EnumMaps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="19" column="59" lean-forward="true" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#946#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/ConstantSpecificMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#416#417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/enumerated/NotClasses.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#621#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/enumerated19/OzWitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tools/Tomcat 9.0/conf/logging.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="50" column="50" lean-forward="true" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mycode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/enumerated19/TrafficLight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/tools/Tomcat 9.0/conf/server.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="162" column="66" selection-start-line="162" selection-start-column="19" selection-end-line="162" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/enumerated19/RandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/enumerated19/Enums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/enumerated19/EnumImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/typeInformation14/TypeCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/BasicFileOutput.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.2/lib/src.zip!/java.base/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="754" column="60" lean-forward="true" selection-start-line="754" selection-start-column="7" selection-end-line="754" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode_and_thinkinginjava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
+          <folding>
+            <element signature="method#main#0;class#TestSolution#0" />
+            <element signature="e#588#967#0" />
+            <element signature="e#720#869#1" />
+            <element signature="e#972#1594#0" />
+            <element signature="e#1118#1175#1" />
+            <element signature="class#1205:1445" />
+            <element signature="method#compare#0;class#1205:1445" />
+            <element signature="e#1599#2184#0" />
+            <element signature="e#1787#2147#1" />
+            <element signature="e#1821#2074#1" />
+            <element signature="e#2079#2137#1" />
+            <element signature="e#2189#2584#0" />
+            <element signature="e#2276#2578#1" />
+            <element signature="e#2589#3292#0" />
+            <element signature="e#2947#3112#1" />
+            <element signature="e#3184#3286#1" />
+            <element signature="e#3297#3397#0" />
+            <element signature="e#3402#4545#0" />
+            <element signature="e#3486#4539#1" />
+            <element signature="e#3800#4076#1" />
+            <element signature="e#3991#4062#1" />
+            <element signature="e#4550#5502#0" />
+            <element signature="e#4866#5496#1" />
+            <element signature="e#4901#4963#1" />
+            <element signature="e#5038#5198#1" />
+            <element signature="e#5311#5431#1" />
+            <element signature="e#5353#5417#1" />
+            <element signature="e#5507#5984#0" />
+            <element signature="e#5702#5947#1" />
+            <element signature="e#5829#5877#1" />
+            <element signature="e#5882#5937#1" />
+            <element signature="e#5989#6315#0" />
+            <element signature="e#6046#6078#0" />
+            <element signature="e#6133#6179#1" />
+            <element signature="e#6183#6309#1" />
+            <element signature="e#6320#6536#0" />
+            <element signature="e#6541#6773#0" />
+            <element signature="e#6778#7328#0" />
+            <element signature="e#6897#6972#1" />
+            <element signature="e#7017#7322#1" />
+            <element signature="e#7176#7312#1" />
+            <element signature="e#7333#7617#0" />
+            <element signature="e#7622#8719#0" />
+            <element signature="e#8443#8560#1" />
+            <element signature="e#8593#8712#1" />
+            <element signature="e#8791#9317#0" />
+            <element signature="e#8975#9292#1" />
+            <element signature="e#9027#9282#1" />
+            <element signature="e#9078#9268#1" />
+            <element signature="e#9322#10297#0" />
+            <element signature="e#9565#9664#1" />
+            <element signature="e#9759#9858#1" />
+            <element signature="e#9943#10042#1" />
+            <element signature="e#10140#10239#1" />
+            <element signature="e#10302#10902#0" />
+            <element signature="e#10462#10666#1" />
+            <element signature="e#10500#10622#1" />
+            <element signature="e#10907#11496#0" />
+            <element signature="e#11068#11117#1" />
+            <element signature="e#11195#11244#1" />
+            <element signature="e#11311#11360#1" />
+            <element signature="e#11441#11490#1" />
+            <element signature="e#11501#11673#0" />
+            <element signature="e#11571#11629#1" />
+            <element signature="e#11678#12196#0" />
+            <element signature="e#11927#12107#1" />
+            <element signature="e#12201#12691#0" />
+            <element signature="e#12311#12349#0" />
+            <element signature="e#12498#12552#1" />
+            <element signature="e#12574#12665#1" />
+            <element signature="e#12696#13890#0" />
+            <element signature="e#12916#13860#1" />
+            <element signature="e#12959#13850#1" />
+            <element signature="e#13020#13077#1" />
+            <element signature="e#13083#13836#1" />
+            <element signature="e#13173#13380#1" />
+            <element signature="e#13276#13358#1" />
+            <element signature="e#13386#13818#1" />
+            <element signature="e#13412#13431#0" />
+            <element signature="e#13497#13576#1" />
+            <element signature="e#13717#13796#1" />
+            <element signature="e#13895#14257#0" />
+            <element signature="e#14151#14229#1" />
+            <element signature="e#14262#14476#0" />
+            <element signature="e#14348#14470#1" />
+            <element signature="e#14481#14790#0" />
+            <element signature="e#14795#14900#0" />
+            <element signature="e#14905#15315#0" />
+            <element signature="e#15038#15288#1" />
+            <element signature="e#15070#15244#1" />
+            <element signature="e#15320#16222#0" />
+            <element signature="e#15615#16196#1" />
+            <element signature="e#16227#16708#0" />
+            <element signature="e#16403#16669#1" />
+            <element signature="e#16476#16529#1" />
+            <element signature="e#16586#16648#1" />
+            <element signature="e#16713#17533#0" />
+            <element signature="e#17057#17507#1" />
+            <element signature="e#17167#17387#1" />
+            <element signature="e#17538#18793#0" />
+            <element signature="e#17926#18149#1" />
+            <element signature="e#17963#18031#1" />
+            <element signature="e#18069#18139#1" />
+            <element signature="e#18502#18553#1" />
+            <element signature="e#18608#18668#1" />
+            <element signature="e#18946#19247#0" />
+            <element signature="e#19252#19569#0" />
+            <element signature="e#19574#20165#0" />
+            <element signature="e#19734#19925#1" />
+            <element signature="e#20170#20800#0" />
+            <element signature="e#20364#20447#1" />
+            <element signature="e#20510#20764#1" />
+            <element signature="e#20805#21297#0" />
+            <element signature="e#21083#21263#1" />
+            <element signature="e#21302#21532#0" />
+            <element signature="e#21537#24180#0" />
+            <element signature="e#21596#23048#0" />
+            <element signature="e#21937#22499#1" />
+            <element signature="e#22101#22409#1" />
+            <element signature="e#22153#22346#1" />
+            <element signature="e#22762#22949#1" />
+            <element signature="e#23057#24174#0" />
+            <element signature="e#23549#24139#1" />
+            <element signature="e#23707#23843#1" />
+            <element signature="e#23955#24093#1" />
+            <element signature="e#24185#24585#0" />
+            <element signature="e#24590#25438#0" />
+            <element signature="e#24730#24797#1" />
+            <element signature="e#24837#25432#1" />
+            <element signature="e#24863#25422#1" />
+            <element signature="e#24881#24908#0" />
+            <element signature="e#25057#25106#1" />
+            <element signature="e#25443#26064#0" />
+            <element signature="e#25527#25685#0" />
+            <element signature="e#25694#25929#0" />
+            <element signature="e#25761#25837#1" />
+            <element signature="e#25843#25919#1" />
+            <element signature="e#26069#26994#0" />
+            <element signature="class#26178:26330" />
+            <element signature="e#26269#26270#0" expanded="true" />
+            <element signature="e#26269#26320#0" />
+            <element signature="e#26319#26320#0" expanded="true" />
+            <element signature="e#26528#26968#1" />
+            <element signature="e#26561#26657#1" />
+            <element signature="e#26750#26809#1" />
+            <element signature="e#26871#26932#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mycode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>temppro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
