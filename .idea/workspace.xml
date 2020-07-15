@@ -4,7 +4,12 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4645d8e1-beb4-4ce2-9a44-87b9262c2286" name="Default Changelist" comment="" />
+    <list default="true" id="4645d8e1-beb4-4ce2-9a44-87b9262c2286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/mycode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/Solution.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,13 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
+            <state relative-caret-position="350">
+              <caret line="781" column="44" lean-forward="true" selection-start-line="781" selection-start-column="44" selection-end-line="781" selection-end-column="44" />
               <folding>
-                <element signature="method#main#0;class#TestSolution#0" />
                 <element signature="e#588#967#0" />
                 <element signature="e#720#869#1" />
                 <element signature="e#972#1594#0" />
@@ -162,23 +166,22 @@
                 <element signature="e#25843#25919#1" />
                 <element signature="e#26069#26994#0" />
                 <element signature="class#26178:26330" />
-                <element signature="e#26269#26270#0" expanded="true" />
                 <element signature="e#26269#26320#0" />
-                <element signature="e#26319#26320#0" expanded="true" />
                 <element signature="e#26528#26968#1" />
                 <element signature="e#26561#26657#1" />
                 <element signature="e#26750#26809#1" />
                 <element signature="e#26871#26932#1" />
+                <element signature="e#27076#27077#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mycode/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+            <state relative-caret-position="375">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -213,6 +216,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -284,6 +288,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -300,18 +305,24 @@
               <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="thinking_in_java" type="462c0819:PsiDirectoryNode" />
+              <item name="mycode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="mycode" type="462c0819:PsiDirectoryNode" />
+              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594799830743" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594803244710" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -345,7 +356,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.TestSolution">
     <configuration name="BasicFileOutput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="thinking_in_java.io18.BasicFileOutput" />
       <module name="leetcode_and_thinkinginjava" />
@@ -412,17 +423,17 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.TestSolution" />
-      <item itemvalue="Application.RandomTest" />
       <item itemvalue="Application.BasicFileOutput" />
       <item itemvalue="Application.Echo" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.RandomTest" />
+      <item itemvalue="Application.TestSolution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSolution" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Echo" />
-        <item itemvalue="Application.TestSolution" />
         <item itemvalue="Application.BasicFileOutput" />
         <item itemvalue="Application.RandomTest" />
       </list>
@@ -451,10 +462,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20469083" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.20895523" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.16684435" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -471,7 +481,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5026652" side_tool="true" weight="0.26218852" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.22968581" />
-      <window_info anchor="bottom" x="337" y="495" width="1385" height="278" id="Run" order="10" sideWeight="0.49733475" weight="0.2494577" />
+      <window_info anchor="bottom" x="337" y="495" width="1385" height="278" id="Run" order="10" sideWeight="0.49733475" visible="true" weight="0.2494577" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -494,13 +504,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/MemoryInput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="66" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/FormattedMemoryInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -894,22 +897,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/Echo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode_and_thinkinginjava.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="202" column="22" lean-forward="true" selection-start-line="202" selection-start-column="22" selection-end-line="202" selection-end-column="22" />
+        <state relative-caret-position="350">
+          <caret line="781" column="44" lean-forward="true" selection-start-line="781" selection-start-column="44" selection-end-line="781" selection-end-column="44" />
           <folding>
-            <element signature="method#main#0;class#TestSolution#0" />
             <element signature="e#588#967#0" />
             <element signature="e#720#869#1" />
             <element signature="e#972#1594#0" />
@@ -1048,21 +1046,27 @@
             <element signature="e#25843#25919#1" />
             <element signature="e#26069#26994#0" />
             <element signature="class#26178:26330" />
-            <element signature="e#26269#26270#0" expanded="true" />
             <element signature="e#26269#26320#0" />
-            <element signature="e#26319#26320#0" expanded="true" />
             <element signature="e#26528#26968#1" />
             <element signature="e#26561#26657#1" />
             <element signature="e#26750#26809#1" />
             <element signature="e#26871#26932#1" />
+            <element signature="e#27076#27077#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mycode/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        <state relative-caret-position="375">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thinking_in_java/io18/Echo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
         </state>
       </provider>
     </entry>
@@ -1118,7 +1122,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>temppro</last-edited>
+          <last-edited>leetcode_and_thinkinginjava</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

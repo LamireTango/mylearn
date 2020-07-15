@@ -779,22 +779,8 @@ public class Solution {
         return res;
     }
     //next
-    private boolean flag = true;
-    public boolean isBalanced(TreeNode root) {
-        isBalancedHelper(root);
-        return flag;
-    }
-
-    private int isBalancedHelper(TreeNode root) {
-        if(root == null) return 0;
-        int left = isBalancedHelper(root.left) + 1;
-        int right = isBalancedHelper(root.right) + 1;
-        if(left>right && left-right>=1 || left<right && right-left>=1)
-            flag = true;
-        else{
-            return -1;
-        }
-        return Math.max(left,right) + 1;
+    public int[] singleNumbers(int[] nums) {
+        return nums;
     }
 
     //圆圈中最后剩下的数字 面试题62 约瑟夫环问题
