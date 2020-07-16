@@ -13,8 +13,6 @@ class TestSolution {
         int[] pushed = new int[]{7,6,5,4};
         int[] popped = new int[]{4,3,5,2,1,10};
         int[][] events = {{2,3},{2,3},{1,5},{1,5},{1,5}};
-//        my.maxProfit(pushed);
-        System.out.println("sadfads\nsdf");
     }
 }
 public class Solution {
@@ -779,18 +777,6 @@ public class Solution {
         return res;
     }
     //next
-    public int[] twoSum(int[] nums, int target) {
-        int[] res = new int[2];
-        Set<Integer> set = new HashSet<>();
-        for(int i=0; i<nums.length; i++){
-            if(set.contains(nums[i])){
-                res[0] = nums[i];
-                res[1] = target - nums[i];
-            }else
-                set.add(target-nums[i]);
-        }
-        return res;
-    }
 
     //圆圈中最后剩下的数字 面试题62 约瑟夫环问题
     public int lastRemaining(int n, int m) {
