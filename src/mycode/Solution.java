@@ -13,6 +13,7 @@ class TestSolution {
         int[] pushed = new int[]{7,6,5,4};
         int[] popped = new int[]{4,3,5,2,1,10};
         int[][] events = {{2,3},{2,3},{1,5},{1,5},{1,5}};
+        my.maxSlidingWindow(new int[]{1,3,-1,-3,5,3,6,7},3);
     }
 }
 public class Solution {
@@ -777,7 +778,20 @@ public class Solution {
         return res;
     }
     //next
-
+    public int[] maxSlidingWindow(int[] nums, int k) {
+        if(nums.length==0) return new int[0];
+        int[] res = new int[nums.length-k+1];
+        PriorityQueue<Integer> queue = new PriorityQueue<>(Comparator.reverseOrder());
+        for(int i=0;i<k;i++)
+            queue.add(nums[i]);
+        for(int i=0;i<res.length-1;i++){
+            res[i] = queue.peek();
+            queue.remove(nums[i]);
+            queue.add(nums[i+k]);
+        }
+        res[res.length-1] = queue.peek();
+        return res;
+    }
     //圆圈中最后剩下的数字 面试题62 约瑟夫环问题
     public int lastRemaining(int n, int m) {
         int ans = 0;
