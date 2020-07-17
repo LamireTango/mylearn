@@ -6,13 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4645d8e1-beb4-4ce2-9a44-87b9262c2286" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$Codec.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$Codec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$MedianFinder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution$MedianFinder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/TestSolution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetcode_and_thinkinginjava/mycode/TestSolution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/mycode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/mycode/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,10 +19,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
+            <state relative-caret-position="2600">
               <caret line="793" column="5" selection-start-line="793" selection-start-column="5" selection-end-line="793" selection-end-column="5" />
               <folding>
                 <element signature="e#573#952#0" />
@@ -196,6 +189,15 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/mycode/Main.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -308,7 +310,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,23 +322,11 @@
               <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mycode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_and_thinkinginjava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_and_thinkinginjava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mycode" type="462c0819:PsiDirectoryNode" />
-              <item name="Solution.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -483,8 +472,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2196162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919224" visible="true" weight="0.2238806" />
       <window_info id="Structure" order="1" sideWeight="0.50080776" side_tool="true" weight="0.16684435" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -524,9 +514,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/net/mindview/util/ThreeTuple.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://G:/java/(Java编程思想)Thinking in Java 4th/源码和jar包/TIJ4-code/net/mindview/util/TextFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="275">
@@ -916,16 +903,12 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/mycode/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
+        <state relative-caret-position="2600">
           <caret line="793" column="5" selection-start-line="793" selection-start-column="5" selection-end-line="793" selection-end-column="5" />
           <folding>
             <element signature="e#573#952#0" />
@@ -1102,6 +1085,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
