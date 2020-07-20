@@ -13,7 +13,6 @@ class TestSolution {
         int[] pushed = new int[]{7, 6, 5, 4};
         int[] popped = new int[]{4, 3, 5, 2, 1, 10};
         int[][] events = {{2, 3}, {2, 3}, {1, 5}, {1, 5}, {1, 5}};
-        my.maxSlidingWindow(new int[]{1, 3, -1, -3, 5, 3, 6, 7}, 2);
     }
 }
 public class Solution {
@@ -777,7 +776,6 @@ public class Solution {
         }
         return res;
     }
-    //next
     public int[] maxSlidingWindow(int[] nums, int k) {
         if (nums.length == 0) return new int[0];
         int[] res = new int[nums.length - k + 1];
@@ -880,5 +878,6 @@ public class Solution {
         }
         return (int) res;
     }
+    //next
 }
 
