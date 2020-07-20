@@ -13,6 +13,7 @@ class TestSolution {
         int[] pushed = new int[]{7, 6, 5, 4};
         int[] popped = new int[]{4, 3, 5, 2, 1, 10};
         int[][] events = {{2, 3}, {2, 3}, {1, 5}, {1, 5}, {1, 5}};
+        System.out.println(1);
     }
 }
 public class Solution {
