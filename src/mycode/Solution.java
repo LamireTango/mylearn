@@ -879,7 +879,7 @@ public class Solution {
         }
         return (int) res;
     }
-    //95. 不同的二叉搜索树II   code again
+    //95. 不同的二叉搜索树II
     public List<TreeNode> generateTrees(int n) {
         if (n == 0) {
             return new LinkedList<TreeNode>();
@@ -911,5 +911,6 @@ public class Solution {
         return allTrees;
     }
     //next
+
 }
 
