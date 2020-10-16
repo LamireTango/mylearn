@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
+//containers
 class StringAddress {
     private String s;
     public StringAddress(String s) { this.s = s; }
